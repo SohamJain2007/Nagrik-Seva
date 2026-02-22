@@ -56,7 +56,7 @@ def chat():
                {"role": "user", "content": user_message}
            ],
            temperature=0.5,
-           max_tokens=300
+           max_tokens=100
        )
 
 
@@ -83,4 +83,3 @@ def bonds():
 
 if __name__ == "__main__":
    app.run(debug=True, port=8000)
-
