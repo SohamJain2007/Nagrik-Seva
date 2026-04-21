@@ -2,7 +2,7 @@
 
 ## 🏛️ Dual Portal Architecture
 
-Nagarik Seva is built as a **two-sided platform** — one for citizens, one for government officials.
+Nagrik Seva is built as a **two-sided platform** — one for citizens, one for government officials.
 
 | | 👤 Citizen Portal | 🏛️ Government Portal |
 |---|---|---|
